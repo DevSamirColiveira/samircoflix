@@ -74,6 +74,10 @@
       },
       "videos": [
         {
+          "titulo": "Data Science & Machine Learning",
+          "url": "https://www.youtube.com/watch?v=Qfc1qYlQpf0"
+        },
+        {
           "titulo": "Teste de Turing",
           "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
         },
