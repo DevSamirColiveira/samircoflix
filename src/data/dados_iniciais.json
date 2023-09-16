@@ -45,7 +45,7 @@
     },
     {
       "titulo": "Back End",
-      "cor": "#00C86F",
+      "cor": "#69953B",
       "link_extra": {
         "text": "Cursos de Back End na Alura",
         "url": "https://www.alura.com.br/cursos-online-programacao"
@@ -75,7 +75,7 @@
     },
     {
       "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "cor": "#9CD33B",
       "link_extra": {
         "text": "Cursos de Data Science na Alura",
         "url": "https://www.alura.com.br/formacao-data-science"
@@ -101,7 +101,7 @@
     },
     {
       "titulo": "Filmes",
-      "cor": "orange",
+      "cor": "#FF8C2A",
       "videos": [
         {
           "titulo": "Interestellar",
@@ -123,7 +123,7 @@
     },
     {
       "titulo": "Games",
-      "cor": "red",
+      "cor": "#DC6EBE",
       "link_extra": {
         "text": "Formação de Jogos na Alura",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
