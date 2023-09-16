@@ -1,8 +1,8 @@
 import BannerMain from "./componentes/BannerMain";
 import Menu from "./componentes/Menu";
 import dadosIniciais from './data/dados_iniciais.json';
-import Carousel from './components/Carousel';
-import Footer from './components/Footer';
+import Carousel from './componentes/Carousel';
+import Footer from './componentes/Footer';
 
 function App() {
   return (

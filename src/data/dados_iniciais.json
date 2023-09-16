@@ -32,14 +32,6 @@
         {
           "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
           "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
         }
       ]
     },
@@ -105,7 +97,7 @@
       "videos": [
         {
           "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "url": "https://www.youtube.com/watch?v=mbbPSq63yuM"
         },
         {
           "titulo": "Gattaca",
@@ -118,6 +110,10 @@
         {
           "titulo": "Feitiço do Tempo",
           "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        },
+        {
+          "titulo": "Pantera Negra: Wakanda para Sempre",
+          "url": "https://www.youtube.com/watch?v=FR9iLjOubWc"
         }
       ]
     },
