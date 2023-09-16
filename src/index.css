@@ -1,0 +1,69 @@
+* {
+  box-sizing: border-box;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+:root {
+    /* Fundação */
+    /* Cor Primaria */
+  --cor-primaria-azul:   #2A7AE4;
+  --cor-primaria-preto:  #000000;
+  --cor-primaria-branco: #FFFFFF;
+
+    /* Cor do Cursos */
+  --cor-frontend:          #6BD1FF;
+  --cor-backend:           #69953B;
+  --cor-mobile:            #FFBA05;
+  --cor-ux:                #DC6EBE;
+  --cor-infra:             #9CD33B;
+  --cor-marketing:         #6B5BE2;
+  --colo-inovation:        #FF8C2A;
+  --cor-data-science:      #9CD33B;
+
+    /* Cor Preto */
+  --cor-preto-escuro:       rgba(0: 0: 0: 0.90);
+  --cor-preto-medium:       rgba(0: 0: 0: 0.60);
+  --cor-preto-claro:        rgba(0: 0: 0: 0.50);
+  --cor-preto-claroer:     #9E9E9E;
+
+    /* Cor Cinza */
+  --cor-cinza-escuro:      #C2C2C2;
+  --cor-cinza-medium:      #E5E5E5;
+  --cor-cinza-claro:       #F5F5F5;
+
+    /* Cor Erro  */
+  --cor-erro-escuro:       #C62828;
+  --cor-erro-medium:       #E53935;
+  --cor-erro-claro:        #FCE7E7;
+
+
+    /* Tipografia */
+  --titulo-texto-grande: 3.75rem;
+  --titulo-texto-medium: 2.875rem;
+  --titulo-texto-pequeno: 2.188rem;
+
+  --texto-conteudo-grande: 1.688rem;
+  --texto-conteudo-medium: 1.125rem;
+  --texto-conteudo-pequeno: 1rem;
+  --texto-conteudo-bem-pequeno: 0.75rem;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+} 
+
+/* --primary: #2A7AE4;
+--black: #000000;
+--blackLighter: #9E9E9E;
+--grayLight: #F5F5F5;
+--grayMedium: #e5e5e5; 
+--white: #FFFFFF;
+--frontEnd: #6BD1FF;
+--backEnd: #00C86F; */
