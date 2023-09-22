@@ -10,6 +10,10 @@
       },
       "videos": [
         {
+          "titulo": "SEO com React",
+          "url": "https://www.youtube.com/watch?v=Z-N5Fr9P-GU"
+        },
+        {
           "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
           "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
         },
@@ -67,7 +71,7 @@
     },
     {
       "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "cor": "#00819b",
       "link_extra": {
         "text": "Cursos de Data Science na Alura",
         "url": "https://www.alura.com.br/formacao-data-science"

@@ -1,0 +1,25 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Front End",
+      "cor": "#6BD1FF",
+      "descricao": "Formação de Front End na Alura"
+    },
+    {
+      "id": 2,
+      "nome": "Black End",
+      "cor": "#6BD9bb",
+      "descricao": "Formação de Black End na Alura"
+    }
+  ],
+  
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "SEO com React",
+      "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+    }
+  ]
+}
