@@ -37,23 +37,24 @@ export const SliderItem = styled.li`
   }
 `;
 
+function Slider({ children }) {
+  return (
+    <Container>
+      <SlickSlider {...{
+        dots: false,
+        infinite: true,
+        speed: 500,
+        centerMode: false,
+        variableWidth: true,
+        adaptiveHeight: true,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+      }}
+      >
+        {children}
+      </SlickSlider>
+    </Container>
+  );
+}
 
-const Slider = ({ children }) => (
-  <Container>
-    <SlickSlider {...{
-      dots: false,
-      infinite: true,
-      speed: 500,
-      centerMode: false,
-      variableWidth: true,
-      adaptiveHeight: true,
-      slidesToShow: 1,
-      slidesToScroll: 1
-    }}
-    >
-      {children}
-    </SlickSlider>
-  </Container>
-);
-
-export default Slider; 
+export default Slider;

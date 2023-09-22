@@ -3,6 +3,7 @@ module.exports = {
     browser: true,
     es2021: true,
   },
+
   extends: 'airbnb',
   overrides: [
     {
@@ -17,11 +18,18 @@ module.exports = {
       },
     },
   ],
+
   parserOptions: {
     ecmaVersion: 'latest',
     sourceType: 'module',
   },
   rules: {
     'react/jsx-filename-extension': [1, { extensions: ['.js'] }],
+    'react/prop-types': 'off',
+  },
+  settings: {
+    react: {
+      version: 'detect',
+    },
   },
 };

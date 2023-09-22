@@ -1,3 +1,4 @@
+/* eslint-disable react/react-in-jsx-scope */
 import BannerMain from '../../../componentes/BannerMain';
 import Menu from '../../../componentes/Menu';
 import dadosIniciais from '../../../data/dados_iniciais.json';

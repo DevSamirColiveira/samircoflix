@@ -1,3 +1,6 @@
+/* eslint-disable import/order */
+/* eslint-disable camelcase */
+/* eslint-disable react/react-in-jsx-scope */
 import minha__logo from '../../assets/imagens/minha__logo.png';
 import Button from '../Botao';
 import './Menu.css';
