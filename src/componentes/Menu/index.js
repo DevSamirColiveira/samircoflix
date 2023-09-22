@@ -10,12 +10,12 @@ export default function Menu() {
         <img
           className="Logo"
           src={minha__logo}
-          alt='SCOFLIX é a logo do site'
+          alt="SCOFLIX é a logo do site"
         />
       </Link>
       <Button as={Link} className="ButtonLink" to="/cadastro/video">
         Novo Vídeo
       </Button>
     </nav>
-  )
+  );
 }
